@@ -311,4 +311,4 @@
 
 # [개발 일정]
 
-<img src ="./img/일정.png" >
+<img src ="./img/일정.PNG" >
